@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132435510520",
+    "project_id": "authnative-b8930",
+    "storage_bucket": "authnative-b8930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132435510520:android:c37f234f5c064bd5d6270d",
+        "android_client_info": {
+          "package_name": "com.madefortrial.Fire_Auth_native"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-xJvVLa4GK1-tNqigzE0VELYvilNO2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
